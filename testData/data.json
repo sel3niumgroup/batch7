@@ -2,8 +2,22 @@
 	"loginDetails": [{
 		"browser": "chrome",
 		"url": "http://demo.guru99.com/V4/",
-		"username": "mngr249075",
-		"password": "EsYsUju"
+		"username": "mngr253498",
+		"password": "EgepYrE",
+	}],
+	"NewCustomerDetails":[{
+		"Customer Name":"John Carter",
+		"Gender":"Male",
+		"Date of Birth":"03/25/1980",
+		"Address":"1345 Crayon Drive",
+		"City":"New York",
+		"State":"New York",
+		"PIN":"123456",
+		"Mobile Number":"4358965544",
+		"E-mail":"john@gmail.com",
+		"Password":"Canada01"
 	}]
+	
+
 
 }
