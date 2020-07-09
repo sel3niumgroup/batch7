@@ -88,6 +88,10 @@ public class TestBase {
 		return null;
 	}
 	
+	/**
+	 * Enters user name and password
+	 * Clicks login button	
+	 */
 	public void login() {
 		JSONObject data = getData("data.json", "loginDetails", 0);	
 
